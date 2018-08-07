@@ -1,0 +1,5 @@
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 329px; Z-index: 2;"><img src=images/obj/barrels.gif alt="Barrels"></div>
+<div style="LEFT: 315px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/bush.gif alt="Bush"></div>
+<div style="LEFT: 365px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/obj/bush.gif alt="Bush"></div>
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/buildings/npc_house01.gif alt="Roland\'s"></div>
+<div style="LEFT: 415px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/buildings/npc_house01.gif alt="The Rat Hole Tavern"></div>

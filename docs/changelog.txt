@@ -1,0 +1,72 @@
+  ____________________________________________________________________
+ /                                                                    \
+ |                        The PHP RPG Project                          |
+ |                                                                     |
+ |                 Version	: .85a                                 |
+ |                 Author	: twoeyes                              |
+ |                 Website	: www.xphpx.net                        |
+ |                                                                     |
+ \____________________________________________________________________/
+
+				Release .85a
+
+- Added PVP (player vs. player) battles
+- Added NPC adding/moving support to the editor (still kind of buggy)
+- Added clipping support to the editor
+- Added building support to the editor
+- Added weapon manager to the editor
+- Added a dialogue manager for NPCs
+- Fixed gold bug when you finished a quest
+- Cleaned up various code flaws in index.php so it runs faster
+- Added more language support
+- Added more template support
+- Moved some template functions into the template class
+- Added editor documentation for building/clipping functions
+- Updated main template to a more pleasing design
+
+
+				Release .79a
+- Added template class
+- Added new template
+- Added a config file in each template that allows you to specify a few variables
+- Added member list
+- Added profile page
+- Cleaned up links
+- Removed unnessecery files
+- Removed unused functions from functions.inc.php
+- Changed users online to something that shows up automaticly on page instead of on another
+- Now you click on NPCs instead of having to walk up to them to talk
+- Created table for clans (no coding done yet)
+- Added language support
+- Changed class name from "Fighter" to Warrior like on the registration page
+- Removed link for music (temp)
+- Fixed bug that didn't allow you to fight with monsters that were shown on the map
+- Fixed bug that caused the chat box expand/hide button to malfunction
+
+				Release .75a
+- Fixed numerous movement bugs that would teleport you around to the wrong spot
+- First editor release
+- Added CSS code for DIV tags inside the tag instead of using the ID method (fixes for firefox)
+- Made it so you can see where you can move to go to the next sectors by adding arrows pointing in
+  the correct direction
+- Removed music files to decrease file size (will be added back later)
+
+				Release .70a
+- Scripting of item system begun
+- Further divided code into classes and functions
+- Added offset's in settings file (useful for layout mods)
+- Expanded the world a bit
+- Made a CSS stylesheet for the template (not complete)
+- Users online feature updated
+
+				Release .65a
+- Started change log
+- Added chat feature
+- Added classes for various functions (not yet fully implemented)
+- Documented cache feature more
+- Fixed various template bugs
+- Added keyboard controls for talk and fight
+- Logo update
+
+				Release .60a
+- Initial release

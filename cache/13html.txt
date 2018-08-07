@@ -1,0 +1,8 @@
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/watertodirt_middletop.gif alt=""></div>
+<div style="LEFT: 197px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/watertodirt_middletop.gif alt=""></div>
+<div style="LEFT: 229px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/watertodirt_middletop.gif alt=""></div>
+<div style="LEFT: 261px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/watertodirt_outputtoprigh.gif alt=""></div>
+<div style="LEFT: 261px; VISIBILITY: visible; POSITION: absolute; TOP: 161px; Z-index: 2;"><img src=images/obj/watertodirt_rightmiddle.g alt=""></div>
+<div style="LEFT: 261px; VISIBILITY: visible; POSITION: absolute; TOP: 193px; Z-index: 2;"><img src=images/obj/watertodirt_rightmiddle.g alt=""></div>
+<div style="LEFT: 261px; VISIBILITY: visible; POSITION: absolute; TOP: 225px; Z-index: 2;"><img src=images/obj/watertodirt_rightmiddle.g alt=""></div>
+<div style="LEFT: 357px; VISIBILITY: visible; POSITION: absolute; TOP: 193px; Z-index: 2;"><img src=images/obj/water_sticks.gif alt=""></div>

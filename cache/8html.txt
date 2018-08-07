@@ -1,0 +1,2 @@
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/bed_sm.gif alt="Bed"></div>
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/housewall.png alt="Wall"></div>

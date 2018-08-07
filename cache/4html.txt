@@ -1,0 +1,4 @@
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/obj/tree_desert.gif alt="Tree"></div>
+<div style="LEFT: 365px; VISIBILITY: visible; POSITION: absolute; TOP: 379px; Z-index: 2;"><img src=images/obj/tree_desert.gif alt="Another tree"></div>
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/crack.gif alt="Cracked Dirt"></div>
+<div style="LEFT: 315px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/rocks.gif alt="Rocks"></div>

@@ -1,0 +1,11 @@
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 429px; Z-index: 2;"><img src=images/obj/bush.gif alt="Bush"></div>
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/cliff_face02.png alt="cliff"></div>
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/bush.gif alt="Bush"></div>
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/weed.gif alt="hemp"></div>
+<div style="LEFT: 365px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 101;"><img src=images/obj/tree02.gif alt="Tree"></div>
+<div style="LEFT: 515px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/obj/weed.gif alt="reefer"></div>
+<div style="LEFT: 415px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/weed.gif alt="j"></div>
+<div style="LEFT: 515px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/weed.gif alt="bud"></div>
+<div style="LEFT: 515px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/weed.gif alt="420"></div>
+<div style="LEFT: 415px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/buildings/npc_house01.gif alt="Ilithor's Waystation"></div>
+<div style="LEFT: 365px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/buildings/cave01.gif alt="Cave"></div>

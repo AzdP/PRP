@@ -1,0 +1,16 @@
+  ____________________________________________________________________
+ /                                                                    \
+ |                        The PHP RPG Project                          |
+ |                                                                     |
+ |                 Version	: .85a                                 |
+ |                 Author	: twoeyes                              |
+ |                 Website	: www.xphpx.net                        |
+ |                                                                     |
+ \____________________________________________________________________/
+
+I made this file just so I can jot down ideas that I come up with. I figured I might
+as well include this file in the PRP build so that people can see what I have
+planned.
+
+	- Add SQLite support
+	- Make it so people can tell when an NPC offers bartering without having to talk with them

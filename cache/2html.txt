@@ -1,0 +1,4 @@
+<div style="LEFT: 300px; VISIBILITY: visible; POSITION: absolute; TOP: 259px; Z-index: 101;"><img src=images/obj/table01.gif alt="Desk"></div>
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/housewall.png alt=""></div>
+<div style="LEFT: 515px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 2;"><img src=images/obj/bed_sm.gif alt="Bed"></div>
+<div style="LEFT: 415px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/buildings/door01.gif alt="Bedroom"></div>

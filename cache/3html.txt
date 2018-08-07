@@ -1,0 +1,2 @@
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/cliff_face02.png alt=""></div>
+<div style="LEFT: 265px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/dirt.gif alt="Dirt Patch"></div>

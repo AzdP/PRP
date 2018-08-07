@@ -1,0 +1,3 @@
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/housewall.png alt=""></div>
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 159px; Z-index: 2;"><img src=images/obj/bed_lg.gif alt="Large Bed"></div>
+<div style="LEFT: 430px; VISIBILITY: visible; POSITION: absolute; TOP: 134px; Z-index: 2;"><img src=images/obj/pottedplant.gif alt="Potted Plant"></div>

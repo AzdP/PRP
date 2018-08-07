@@ -1,0 +1,5 @@
+<div style="LEFT: 165px; VISIBILITY: visible; POSITION: absolute; TOP: 129px; Z-index: 2;"><img src=images/obj/water01.gif alt="Water"></div>
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 101;"><img src=images/obj/tree03.gif alt="Palm"></div>
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 101;"><img src=images/obj/tree03.gif alt="Palm Tree"></div>
+<div style="LEFT: 415px; VISIBILITY: visible; POSITION: absolute; TOP: 429px; Z-index: 101;"><img src=images/obj/tree03.gif alt="Palm tree"></div>
+<div style="LEFT: 315px; VISIBILITY: visible; POSITION: absolute; TOP: 229px; Z-index: 2;"><img src=images/buildings/npc_house01.gif alt="Beach"></div>

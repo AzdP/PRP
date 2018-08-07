@@ -1,0 +1,35 @@
+  ____________________________________________________________________
+ /                                                                    \
+ |                        The PHP RPG Project                          |
+ |                                                                     |
+ |                 Version	: .85a                                 |
+ |                 Author	: twoeyes                              |
+ |                 Website	: www.xphpx.net                        |
+ |                                                                     |
+ \____________________________________________________________________/
+
+			EASY INSTALL GUIDE
+
+1. UPLOAD 
+Step one is to upload all the script files to your website using
+an FTP client of some sort. You can upload it to any directory in your
+website you want, but make sure the directory structure stays the same
+for the script.
+
+2. PERMISSIONS
+Set the permissions (chmod) for the folder "cache" to 777 and set all
+the files withen it to 666.
+
+3. MYSQL DATABASE
+First pick out a database to use for the RPG then using the file located
+in the "sql" folder, execute the queries to setup the database.
+
+4. MYSQL SETTINGS
+In order to use the RPG you must have access to a MySQL database. First
+open settings.php and change the PHP variables inside to match your MySQL
+info.
+
+5. PLAY!
+Then to play all you need to go is go to http://yoursite.com/rpg/ and then
+click the register button. Once you've registered you can login and play the
+game!

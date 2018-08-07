@@ -1,0 +1,5 @@
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 179px; Z-index: 101;"><img src=images/obj/tree03.gif alt="A Tree"></div>
+<div style="LEFT: 315px; VISIBILITY: visible; POSITION: absolute; TOP: 379px; Z-index: 101;"><img src=images/obj/tree03.gif alt="A Tree"></div>
+<div style="LEFT: 215px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/weed.gif alt="Weeds"></div>
+<div style="LEFT: 465px; VISIBILITY: visible; POSITION: absolute; TOP: 429px; Z-index: 2;"><img src=images/obj/weed.gif alt="Weeds"></div>
+<div style="LEFT: 365px; VISIBILITY: visible; POSITION: absolute; TOP: 279px; Z-index: 2;"><img src=images/obj/flowers.gif alt="Flowers"></div>
