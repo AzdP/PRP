@@ -1,0 +1,2 @@
+{opp_name} is challenging you to a player vs. player battle. Accept their challenge?<br /><br />
+<a href="pvp.php?mode=accept&pid={pvp_id}">Accept</a> || <a href="pvp.php?mode=deny&pid={pvp_id}">Deny</a>

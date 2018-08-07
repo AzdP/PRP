@@ -1,0 +1,62 @@
+/*
+	Main Styles
+*/
+
+body {
+background-color: #FFFFFF; 
+font-family: verdana,arial; 
+font-size: 10px; 
+}
+
+td { 
+font-family: verdana,arial; 
+font-size: 10px; 
+}
+
+a:link,a:active,a:visited {
+text-decoration: none;
+font-family: tahoma;
+font-size: 10px;
+color: #000000;
+}
+
+a:hover {
+text-decoration: none;
+color: font-family: tahoma;
+font-size: 10px;
+color: #cccccc;
+}
+
+/* 
+	Menu boxes
+*/
+
+.menuMain { 
+border-size: 1; 
+border-width: 1;
+border-style: solid;
+border-color: #111111;
+border-collapse: collapse;
+}
+
+.menuHeader {
+background-image: url('images/nav.gif');
+}
+
+/* 
+	Main Table
+*/
+
+.mainTable {
+border-collapse: collapse;
+border-size: 1;
+border-color: #111111;
+}
+
+.topRow {
+background-color: #E7EDF8;
+}
+
+.bottomRow {
+background-color: #F0F3F9;
+}
